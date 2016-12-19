@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="xyz" type="GWT.ConfigurationType" factoryName="GWT Configuration" singleton="true">
+    <module name="z" />
+    <option name="VM_PARAMETERS" value="-Xmx1024m" />
+    <option name="RUN_PAGE" value="Y.html" />
+    <option name="USE_SUPER_DEV_MODE" value="true" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <method />
+  </configuration>
+</component>
