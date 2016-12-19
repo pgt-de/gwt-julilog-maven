@@ -8,5 +8,5 @@ java.util.ServiceConfigurationError: org.apache.juli.logging.Log: Provider org.e
 
 The tomcat jdbc datasource is started in the servlet init. 
 The jsp depencency is excluded in the pom.
-Intellij still includes the dependency into the classpath.
+Intellij still includes the dependency into the classpath when starting the project...
 
